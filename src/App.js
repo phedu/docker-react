@@ -13,7 +13,7 @@ function App() {
         alt = "logo" / >
         <
         p >
-        Hello, world!
+        Hello, I was changed!
         <
         /p> <
         a className = "App-link"
